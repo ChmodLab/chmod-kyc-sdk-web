@@ -1,0 +1,133 @@
+                              Chmod Proprietary License
+                              Version 1.0, November 2026
+
+   Copyright (c) 2026 Chmod. All rights reserved.
+
+   TERMS AND CONDITIONS FOR USE OF THE SOFTWARE
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use set out in Sections 1
+      through 10 of this document.
+
+      "Licensor" shall mean Chmod, the owner of the copyright in the Software, and
+      any entity Chmod authorizes to grant this License.
+
+      "Legal Entity" shall mean the union of the acting entity and all other entities
+      that control, are controlled by, or are under common control with that entity.
+
+      "Customer" shall mean an individual or Legal Entity that has a current written
+      agreement with the Licensor for the use of its identity verification service
+      (the "Customer Agreement").
+
+      "You" (or "Your") shall mean an individual or Legal Entity that receives, holds
+      or uses a copy of the Software.
+
+      "Software" shall mean the Chmod KYC Web SDK, in Source or Object form, together
+      with its documentation and any update, patch or new version the Licensor makes
+      available under this License.
+
+      "Source" form shall mean the preferred form for making changes, including
+      source code, styles and configuration files.
+
+      "Object" form shall mean any form resulting from mechanical transformation or
+      translation of a Source form, including compiled, bundled and minified builds.
+
+      "Permitted Purpose" shall mean integrating the Licensor's identity verification
+      service into websites and applications owned or operated by the Customer, so
+      that the Customer's own end users can complete a verification.
+
+   2. Grant of License. Subject to the terms and conditions of this License and of
+      the Customer Agreement, the Licensor hereby grants each Customer a
+      non-exclusive, non-transferable, non-sublicensable, revocable and limited
+      license to install and run the Software in Object form, as distributed by the
+      Licensor and without changes, solely for the Permitted Purpose and for the term
+      of the Customer Agreement. The copies that the Customer's websites and
+      applications deliver to their end users' browsers in order to run the Software
+      for the Permitted Purpose are part of this use. No other right or license is
+      granted, whether expressly, by implication or otherwise.
+
+   3. Restrictions. Except as expressly permitted in Section 2, or with the
+      Licensor's prior written permission, You may not, and may not allow any third
+      party to:
+
+      (a) copy or reproduce the Software, in whole or in part;
+
+      (b) modify, translate or adapt the Software, create derivative works of it, or
+          merge it into other software;
+
+      (c) sell, resell, sublicense, rent, lease, lend, assign, distribute, publish or
+          otherwise make the Software available to any third party, whether for a fee
+          or free of charge;
+
+      (d) use the Software, in whole or in part, to obtain any economic benefit other
+          than the Permitted Purpose, including offering the Software, or any service
+          based on it, to others;
+
+      (e) use the Software to build, train, benchmark or offer a product or service
+          that is similar to or competes with the Licensor's;
+
+      (f) reverse engineer, decompile or disassemble the Software, or attempt to
+          derive its Source form, except to the extent that applicable law expressly
+          permits it notwithstanding this limitation;
+
+      (g) circumvent any technical limitation of the Software, or use it with
+          credentials, tokens or accounts not issued to You by the Licensor; or
+
+      (h) remove, alter or obscure any copyright, trademark or other proprietary
+          notice in the Software.
+
+   4. Ownership. The Software is licensed, not sold. The Licensor and its licensors
+      keep all right, title and interest in and to the Software, including all
+      intellectual property rights in it. All rights not expressly granted in this
+      License are reserved.
+
+   5. Confidentiality. The Software in Source form, and any non-public information
+      about it, is confidential information of the Licensor. You shall protect it
+      with at least the care You use for Your own confidential information, and never
+      with less than reasonable care.
+
+   6. Third-Party Components. The Software includes open source components that
+      remain under their own licenses: React (MIT License);
+      @chmodlab/kyc-liveness-web, derived from AWS Amplify UI (Apache License,
+      Version 2.0); and the AWS SDK for JavaScript (Apache License, Version 2.0).
+      Their notices are kept in the Software, and nothing in this License limits the
+      rights those licenses grant for those components.
+
+   7. Termination. This License ends automatically, without notice, when the Customer
+      Agreement ends or if You breach any of its terms. On termination You shall stop
+      using the Software and destroy every copy of it in Your possession or control.
+      Sections 3 through 10 survive termination.
+
+   8. Disclaimer of Warranty. EXCEPT AS EXPRESSLY AGREED IN WRITING IN THE CUSTOMER
+      AGREEMENT, THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+      EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+      MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NONINFRINGEMENT.
+
+   9. Limitation of Liability. EXCEPT AS EXPRESSLY AGREED IN WRITING IN THE CUSTOMER
+      AGREEMENT, IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES OR
+      OTHER LIABILITY, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL OR
+      CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+      ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF OR OTHER
+      DEALINGS IN THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+   10. Miscellaneous. If this License and the Customer Agreement conflict, the
+       Customer Agreement prevails. If any provision of this License is held
+       unenforceable, the remaining provisions stay in effect. The Licensor's failure
+       to enforce any provision is not a waiver of it. This License is governed by
+       the laws of the jurisdiction in which the Licensor is established, unless the
+       Customer Agreement provides otherwise.
+
+   END OF TERMS AND CONDITIONS
+
+   APPENDIX: How to mark copies of the Software.
+
+      To mark a file or build of the Software, include the following notice:
+
+         Copyright (c) 2026 Chmod. All rights reserved.
+
+         Use of this file is governed by the Chmod Proprietary License, Version 1.0,
+         in the LICENSE file. Copying, modifying, distributing or reselling it
+         without the written permission of Chmod is prohibited.
+
+   For licensing inquiries, contact Chmod.
